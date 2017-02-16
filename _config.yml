@@ -18,7 +18,7 @@ author :
   name : Lucy
   email : alicepurepink@gmail.com
   github : alicePrj
-production_url : https://aliceprj.github.com
+production_url : https://aliceprj.github.io
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
@@ -34,7 +34,7 @@ JB :
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Pages (https://aliceprj.github.com)
+  # GitHub Pages (https://aliceprj.github.io)
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
