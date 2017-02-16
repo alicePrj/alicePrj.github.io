@@ -5,23 +5,9 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-
-    title : My Blog =)1111111
-
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
+으하으하으하아아앍 기본 화면 고치자
+이제 여기좀 고쳐서 템플릿을 만들어 봐야것구먼
 
 ## Sample Posts
 
@@ -39,5 +25,3 @@ Here's a sample "posts list".
 </ul>
 
 ## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/dbtek/jekyll-bootstrap-3)!
