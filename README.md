@@ -1,37 +1,20 @@
-# Jekyll-Bootstrap-3
+# 으아아악 토나와
 
-Easily publish Bootstrap 3 powered Jekyll sites.  
-Fork of the well known jekyll-bootstrap (v0.3.0). Original project is [here](https://github.com/plusjade/jekyll-bootstrap).  
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.  
+으아아아악 토나와 셋팅하다가 토나오겠네
 
-## Usage
+쌩으로 뭔 짓이여 이게에
 
-### 1. Create a Repo
-- Go to <https://github.com> and create a new repository named *USERNAME.github.io*  
+윈도우라서 ruby rvm 도 없이 걍 쌩으로 dev까지 다깔고~  jekll도 걍 쌩 gem으로 다 깔았는디..
+알고 보니 포터블 jekll이 있었어....
 
-### 2. Install Jekyll-Bootstrap-3  
-<pre>
-  <code>
-    $ git clone https://github.com/dbtek/jekyll-bootstrap-3 USERNAME.github.io
-    $ cd USERNAME.github.com
-    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
-    $ git push origin master  
-  </code>
-</pre>  
-### 3. Enjoy !
-- After giving 10 mins to GitHub of course.  
-
-For original project's usage and documentation please see: <http://jekyllbootstrap.com>  
+하...;;;
 
 
-### Themes
+https://github.com/madhur/PortableJekyll  
 
-Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gallery](http://jekyll-bootstrap-3.github.io/preview).
+지킬 이녀석...... ...
 
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+그랬구나 너....... .. 하아앝....
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+그나저나.. 마크다운... html 쓰다 마트다운 쓰려니 못써먹겠네;; 허허허허 ㅋㅋㅋㅋㅋㅋ
